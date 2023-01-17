@@ -107,9 +107,18 @@ Many firms sell complementary goods A and B. Tying means if you buy from A, you 
 However, The Chicago critique:
 Tying to reduce competition in the competitive segment does not make sense ,Since consumers who buy the complementary good will also buy the monopoly good.
 -> Reducing competition in the market of complements is not monopolist's interest.
-
-Whinston’s (1990) model of entry deterrence, 
+# Whinston’s (1990) model of entry deterrence, 
 Mean idea :M threatens to give up some of its profits in the A market to drive E away from the B market. Hence, M monopolize both markets.
+# The Carlton and Waldman (2002) model
+The idea;
+A and B are full complements. M monopolies both system A and B.
+There is an entrant to both markets, however, entry into the applications market B is quicker, entry in systems while entrying market A takes a while.
+Hence, tying A and B together depriving E of early income necessary to enter successfully in both markets.
+
+
+
+
+
 
 
 
